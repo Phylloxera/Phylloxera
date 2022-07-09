@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phylloxera
 - 👀 I’m interested in 'omics'
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning Python
 
 <!---
 Phylloxera/Phylloxera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
